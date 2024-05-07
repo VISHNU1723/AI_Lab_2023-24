@@ -1,5 +1,5 @@
 # Ex.No: 11  Planning –  Block World Problem 
-### DATE:07/04/24                                                                            
+### DATE:07/05/24                                                                            
 ### REGISTER NUMBER : 212221060276
 ### AIM: 
 To find the sequence of plan for Block word problem using PDDL  
